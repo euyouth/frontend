@@ -1,0 +1,11 @@
+[09-Jul-2019 09:00:39 Europe/Sofia] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/edinzave/public_html/euyouth.eilab.eu/frontend/application/models/Progress_model.php on line 336
+[09-Jul-2019 13:21:06 Europe/Sofia] PHP Fatal error:  Call to undefined method Progress_model::setNextLevelAsCurrent() in /home/edinzave/public_html/euyouth.eilab.eu/frontend/application/controllers/Progress.php on line 161
+[09-Jul-2019 13:21:26 Europe/Sofia] PHP Fatal error:  Call to undefined method Progress_model::setNextLevelAsCurrent() in /home/edinzave/public_html/euyouth.eilab.eu/frontend/application/controllers/Progress.php on line 161
+[10-Jul-2019 15:59:33 Europe/Sofia] PHP Fatal error:  Call to a member function result() on null in /home/edinzave/public_html/euyouth.eilab.eu/frontend/application/models/Level_model.php on line 626
+[10-Jul-2019 16:06:36 Europe/Sofia] PHP Parse error:  syntax error, unexpected '}' in /home/edinzave/public_html/euyouth.eilab.eu/frontend/application/controllers/Progress.php on line 186
+[23-Jul-2019 10:46:40 Europe/Sofia] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/edinzave/public_html/euyouth.eilab.eu/frontend/application/models/Question_model.php on line 188
+[23-Jul-2019 19:35:40 Europe/Sofia] PHP Fatal error:  Can't use method return value in write context in /home/edinzave/public_html/euyouth.eilab.eu/frontend/application/models/Question_model.php on line 77
+[23-Jul-2019 19:35:50 Europe/Sofia] PHP Fatal error:  Can't use method return value in write context in /home/edinzave/public_html/euyouth.eilab.eu/frontend/application/models/Question_model.php on line 77
+[23-Jul-2019 19:35:58 Europe/Sofia] PHP Fatal error:  Can't use method return value in write context in /home/edinzave/public_html/euyouth.eilab.eu/frontend/application/models/Question_model.php on line 77
+[23-Jul-2019 19:36:14 Europe/Sofia] PHP Fatal error:  Can't use method return value in write context in /home/edinzave/public_html/euyouth.eilab.eu/frontend/application/models/Question_model.php on line 77
+[23-Jul-2019 19:39:12 Europe/Sofia] PHP Fatal error:  Can't use method return value in write context in /home/edinzave/public_html/euyouth.eilab.eu/frontend/application/models/Question_model.php on line 77
